@@ -1,6 +1,6 @@
 <!-- 顶部banner - 增强视觉冲击力 -->
 <div align="center">
-  <img src="https://picsum.photos/id/0/1200/300" alt="Banner" style="width: 100%; border-radius: 12px; margin-bottom: 1.5rem;" />
+  <img src="https://camo.githubusercontent.com/9ae27d9f8bc2367dcee59b2bbbbc19dc09da80051afdb7ef6fc4e397534eb03f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f636f64696e672e676966" alt="Banner" style="width: 100%; border-radius: 12px; margin-bottom: 1.5rem;" />
 </div>
 
 <!-- 打字动画 + 个人标签 -->
@@ -84,6 +84,7 @@
   <div style="margin-top: 1.5rem;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=opwop1&theme=radical&card_width=650" alt="GitHub Streak" style="border-radius: 8px; max-width: 100%;" />
   </div>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)
 </div>
 
 <!-- 特色项目 - 增强卡片交互和样式 -->
