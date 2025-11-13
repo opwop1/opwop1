@@ -63,30 +63,6 @@ I'm a passionate developer who loves building scalable applications and explorin
         </div>
       </div>
     </a>
-
-    <!-- Project 2 -->
-    <a href="https://github.com/opwop1/cool-tool" style="text-decoration: none;">
-      <div style="background: #1e1e1e; border-radius: 10px; padding: 1.5rem; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <h3 style="color: #61dafb; margin-top: 0;">Cool Tool</h3>
-        <p style="color: #e0e0e0;">A Python CLI tool that simplifies developer workflows and saves time.</p>
-        <div style="margin-top: 1rem;">
-          <img src="https://img.shields.io/github/stars/opwop1/cool-tool?color=ffcb2d&logo=github" alt="Stars" />
-          <img src="https://img.shields.io/github/languages/top/opwop1/cool-tool?color=38bdf8" alt="Top Language" />
-        </div>
-      </div>
-    </a>
-
-    <!-- Project 3 -->
-    <a href="https://github.com/opwop1/nextjs-app" style="text-decoration: none;">
-      <div style="background: #1e1e1e; border-radius: 10px; padding: 1.5rem; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <h3 style="color: #61dafb; margin-top: 0;">Next.js App</h3>
-        <p style="color: #e0e0e0;">A modern web application with server-side rendering and great performance.</p>
-        <div style="margin-top: 1rem;">
-          <img src="https://img.shields.io/github/stars/opwop1/nextjs-app?color=ffcb2d&logo=github" alt="Stars" />
-          <img src="https://img.shields.io/github/languages/top/opwop1/nextjs-app?color=38bdf8" alt="Top Language" />
-        </div>
-      </div>
-    </a>
   </div>
 </div>
 
