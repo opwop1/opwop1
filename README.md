@@ -84,7 +84,6 @@
   <div style="margin-top: 1.5rem;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=opwop1&theme=radical&card_width=650" alt="GitHub Streak" style="border-radius: 8px; max-width: 100%;" />
   </div>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)
 </div>
 
 <!-- 特色项目 - 增强卡片交互和样式 -->
