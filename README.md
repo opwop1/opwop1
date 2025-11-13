@@ -124,17 +124,17 @@
   <div style="display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap;">
     <a href="mailto:3089891656@qq.com" target="_blank" style="text-decoration: none;">
       <div style="background: white; padding: 1rem; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Email" style="width: 45px; height: 45px;" />
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Email" style="width: 45px; height: 45px;" />3089891656@qq.com
       </div>
     </a>
-    <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=3089891656&website=www.oicqzone.com" target="_blank" style="text-decoration: none;">
+    <a style="text-decoration: none;">
       <div style="background: white; padding: 1rem; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/2c/8a/e92c8a2f-7f30-b9b3-2caf-8f15c239bd6f/AppIcon-1-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/400x400ia-75.webp" alt="QQ" style="width: 45px; height: 45px; border-radius: 50%;" />
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/2c/8a/e92c8a2f-7f30-b9b3-2caf-8f15c239bd6f/AppIcon-1-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/400x400ia-75.webp" alt="QQ" style="width: 45px; height: 45px; border-radius: 50%;" />3089891656
       </div>
     </a>
     <a href="https://github.com/opwop1" target="_blank" style="text-decoration: none;">
       <div style="background: white; padding: 1rem; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width: 45px; height: 45px;" />
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width: 45px; height: 45px;" />opwop1
       </div>
     </a>
   </div>
