@@ -70,17 +70,8 @@ I'm a passionate developer who loves building scalable applications and explorin
 
 ## 🎯 Let's Connect
 <div align="center">
-  <a href="https://linkedin.com/in/opwop1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin: 0 0.5rem; width: 40px; height: 40px;" />
-  </a>
-  <a href="https://twitter.com/opwop1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" style="margin: 0 0.5rem; width: 40px; height: 40px;" />
-  </a>
-  <a href="https://dev.to/opwop1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" style="margin: 0 0.5rem; width: 40px; height: 40px;" />
-  </a>
-  <a href="https://stackoverflow.com/users/opwop1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" style="margin: 0 0.5rem; width: 40px; height: 40px;" />
+  <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=3089891656&website=www.oicqzone.com" target="_blank">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/2c/8a/e92c8a2f-7f30-b9b3-2caf-8f15c239bd6f/AppIcon-1-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/400x400ia-75.webp" alt="QQ" style="margin: 0 0.5rem; width: 40px; height: 40px;" />
   </a>
 </div>
 
@@ -89,11 +80,3 @@ I'm a passionate developer who loves building scalable applications and explorin
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=opwop1&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
-
-<!-- Hover effect for project cards -->
-<style>
-  a:hover div {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-  }
-</style>
