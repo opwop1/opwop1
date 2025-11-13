@@ -22,6 +22,8 @@
   </div>
 </div>
 
+![](https://raw.githubusercontent.com/opwop1/opwop1/main/assets/github-contribution-grid-snake.svg)
+
 <!-- 关于我 - 卡片式设计 -->
 ## 🚀 About Me
 <div style="background: #f0f8fb; border-radius: 12px; padding: 1.8rem; margin-bottom: 2rem; border: 1px solid #e8f4f8;">
