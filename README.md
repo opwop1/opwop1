@@ -51,14 +51,15 @@ I'm a passionate developer who loves building scalable applications and explorin
 ## 🔥 Featured Projects
 <div align="center">
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 0 1rem;">
-    <!-- Project 1 -->
-    <a href="https://github.com/opwop1/awesome-project" style="text-decoration: none;">
+    <!-- koishi-plugin-ets2-tools-tmp -->
+    <a href="https://github.com/opwop1/koishi-plugin-ets2-tools-tmp" style="text-decoration: none;">
       <div style="background: #1e1e1e; border-radius: 10px; padding: 1.5rem; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <h3 style="color: #61dafb; margin-top: 0;">Awesome Project</h3>
-        <p style="color: #e0e0e0;">A cool application built with React and Node.js that solves real-world problems.</p>
+        <h3 style="color: #61dafb; margin-top: 0;">koishi-plugin-ets2-tools-tmp</h3>
+        <p style="color: #e0e0e0;">欧卡2 TMP在线查询、车队平台查询及活动提醒插件，支持玩家信息查询、里程排行榜和实时位置展示。</p>
         <div style="margin-top: 1rem;">
-          <img src="https://img.shields.io/github/stars/opwop1/awesome-project?color=ffcb2d&logo=github" alt="Stars" />
-          <img src="https://img.shields.io/github/languages/top/opwop1/awesome-project?color=38bdf8" alt="Top Language" />
+          <img src="https://img.shields.io/github/stars/opwop1/koishi-plugin-ets2-tools-tmp?color=ffcb2d&logo=github" alt="Stars" />
+          <img src="https://img.shields.io/github/languages/top/opwop1/koishi-plugin-ets2-tools-tmp?color=38bdf8" alt="Top Language" />
+          <img src="https://img.shields.io/npm/v/koishi-plugin-ets2-tools-tmp?color=8b5cf6&logo=npm" alt="NPM Version" />
         </div>
       </div>
     </a>
