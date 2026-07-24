@@ -1,4 +1,3 @@
-<!-- 顶部 Banner 双主题适配 -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif">
@@ -7,13 +6,11 @@
 </picture>
 </div>
 
-<!-- 打字标题 -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=480&lines=Hello+World!+I'm+opwop1;Full-Stack+Developer;Open+Source+Enthusiast;Building+meaningful+software" alt="typing animation"/>
 
 <br>
 
-<!-- 数据徽章组 -->
 <div style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin:16px 0 28px;">
 <a href="https://github.com/opwop1?tab=repositories&sort=stargazers">
 <img src="https://img.shields.io/github/stars/opwop1?affiliations=OWNER%2CCOLLABORATOR&color=FBBF24&label=Total%20Stars&logo=github&style=for-the-badge&logoColor=black">
@@ -28,7 +25,6 @@
 </div>
 </div>
 
-<!-- Snake 贡献动画 -->
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/opwop1/opwop1/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/opwop1/opwop1/output/github-contribution-grid-snake.svg">
@@ -36,7 +32,6 @@
 </picture>
 
 <br>
-<!-- 波浪分割装饰 -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=30&section=header" width="100%">
 </div>
@@ -106,7 +101,6 @@ I pursue clean architecture, readable code and user-oriented solutions.
 <div align="center">
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(420px, 1fr)); gap: 1.6rem; width: 96%;">
 
-<!-- 项目1 koishi-plugin-ets2-tools-tmp -->
 <a href="https://github.com/opwop1/koishi-plugin-ets2-tools-tmp" style="text-decoration: none;">
 <table width="100%" border="0">
 <tr>
@@ -115,7 +109,6 @@ I pursue clean architecture, readable code and user-oriented solutions.
 <img src="https://skillicons.dev/icons?i=nodejs" width="36">
 <h3 style="margin:0;"><span style="color:#58a6ff;">koishi-plugin-ets2-tools-tmp</span></h3>
 </div>
-<!-- 关键：pointer-events:none 让这段文字不继承链接样式，去除下划线 -->
 <p style="color:#c9d1d9;line-height:1.6;margin:12px 0 16px; pointer-events: none;">
 欧卡2 TMP在线查询、车队平台查询及活动提醒插件，支持玩家信息查询、里程排行榜和实时位置展示。
 </p>
@@ -129,7 +122,6 @@ I pursue clean architecture, readable code and user-oriented solutions.
 </table>
 </a>
 
-<!-- 项目2 koishi-plugin-adapter-mail-pro -->
 <a href="https://github.com/opwop1/koishi-plugin-adapter-mail-pro" style="text-decoration: none;">
 <table width="100%" border="0">
 <tr>
@@ -151,7 +143,6 @@ Koishi 邮件适配器增强版，支持接收邮件消息、邮件指令触发�
 </table>
 </a>
 
-<!-- 项目3 koishi-plugin-auto-exit-group -->
 <a href="https://github.com/opwop1/koishi-plugin-auto-exit-group" style="text-decoration: none;">
 <table width="100%" border="0">
 <tr>
@@ -173,7 +164,6 @@ Koishi 自动退群插件，支持自定义黑名单群组、超时自动退出�
 </table>
 </a>
 
-<!-- 项目4 koishi-plugin-platform-clock -->
 <a href="https://github.com/opwop1/koishi-plugin-platform-clock" style="text-decoration: none;">
 <table width="100%" border="0">
 <tr>
