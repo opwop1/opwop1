@@ -74,23 +74,23 @@ const profile = {
 
 ## Tech Stack
 
-<table width="100%">
+<table width="94%" align="center">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 #### Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,python" alt="JavaScript TypeScript Python" />
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 #### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React Next.js" />
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 #### Backend
 
@@ -99,21 +99,21 @@ const profile = {
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 #### Data
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="MongoDB PostgreSQL MySQL" />
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 #### Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=docker,aws,linux" alt="Docker AWS Linux" />
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 #### Daily Tools
 
